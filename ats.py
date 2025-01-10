@@ -8,7 +8,7 @@ from pdf2image.exceptions import PDFInfoNotInstalledError
 import google.generativeai as genai
 
 # Configure Generative AI API
-API_KEY = 'AIzaSyBx1Yy_5akF9R4htPBj6B7Z23s2AamwFfI'
+API_KEY = '' #please enter your API key 
 genai.configure(api_key=API_KEY)
 
 def get_gemini_response(input_text, pdf_content, prompt):
