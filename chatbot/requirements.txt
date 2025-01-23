@@ -1,0 +1,10 @@
+openai
+ipykernel
+python-dotenv
+langchain
+tensorflow
+langchain-huggingface
+huggingface_hub
+transformers
+accelerate
+bitsandbytes
