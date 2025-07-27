@@ -2,7 +2,15 @@ from phi.agent import Agent
 from phi.model.groq import Groq
 from phi.tools.yfinance import YFinanceTools
 from phi.tools.duckduckgo import DuckDuckGo
+from dotenv import load_dotenv
+import phi.api 
+import os
 
+
+load_dotenv()
+
+
+phi.api=os.getenv("PHI_API_KEY")
 
 web_agent = Agent(
     name = "Web Search Agent",
