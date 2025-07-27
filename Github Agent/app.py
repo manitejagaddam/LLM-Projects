@@ -7,8 +7,9 @@ from read_content import read_content
 # Load environment variables from .env file
 load_dotenv()
 
-# Get GitHub username and token from environment variables
-username = 'vetchayateesh'
+# Get GitHub
+# username and token from environment variables
+username = 'narlapavan26'
 token = os.getenv('GITHUB_TOKEN')  # Fetch token from the .env file
 
 # Base URL for GitHub API

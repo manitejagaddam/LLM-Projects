@@ -1,131 +1,64 @@
 {
-    "vetchayateesh": {},
-    "Web-Dev-Projects": {
-        "E-Commerce": {
-            "README.md": "E-Commerce/README.md",
-            "about.html": "E-Commerce/about.html",
-            "cart.html": "E-Commerce/cart.html",
-            "collection.html": "E-Commerce/collection.html",
-            "contact.html": "E-Commerce/contact.html",
-            "index.html": "E-Commerce/index.html",
-            "script.js": "E-Commerce/script.js",
-            "styles.css": "E-Commerce/styles.css"
-        },
-        "flickr": {
-            "flickr": {
-                "30956848-cc0d1bb8-a438-11e7-8653-f79b9639a113.webp": "flickr/flickr/30956848-cc0d1bb8-a438-11e7-8653-f79b9639a113.webp",
-                "Flickr_logo.png": "flickr/flickr/Flickr_logo.png",
-                "facebook.svg": "flickr/flickr/facebook.svg",
-                "index.html": "flickr/flickr/index.html",
-                "instagram.svg": "flickr/flickr/instagram.svg",
-                "lion-looks-his-reflection-water-against-backdrop-jungle_282218-1079.avif": "flickr/flickr/lion-looks-his-reflection-water-against-backdrop-jungle_282218-1079.avif",
-                "magnifying-glass-solid.svg": "flickr/flickr/magnifying-glass-solid.svg",
-                "style.css": "flickr/flickr/style.css",
-                "twitter.svg": "flickr/flickr/twitter.svg"
+    "bharatinternship": {
+        "bharatintern": {
+            "Iris.csv": "bharatintern/Iris.csv",
+            "Iris_Classification.ipynb": "bharatintern/Iris_Classification.ipynb",
+            "ParisHousing.xls": "bharatintern/ParisHousing.xls",
+            "desktop.ini": "bharatintern/desktop.ini",
+            "house_pred.pkl": "bharatintern/house_pred.pkl",
+            "house_price_prediction.ipynb": "bharatintern/house_price_prediction.ipynb",
+            "main.py": "bharatintern/main.py",
+            "templates": {
+                "index.html": "bharatintern/templates/index.html"
             }
-        },
-        "microsoft": {
-            "Content-Card-Azure-Cropped-Azure-UI.jpeg": "microsoft/Content-Card-Azure-Cropped-Azure-UI.jpeg",
-            "Content-Card-Surface-Laptop-5-LIfestyle-M2.webp": "microsoft/Content-Card-Surface-Laptop-5-LIfestyle-M2.webp",
-            "Content-Card-Surface-Laptop-Studio-2-FY24HOL.jpeg": "microsoft/Content-Card-Surface-Laptop-Studio-2-FY24HOL.jpeg",
-            "Content-Card-Windows-11-Business.jpeg": "microsoft/Content-Card-Windows-11-Business.jpeg",
-            "Content-Card-Xbox-GamePass-Light-FY24HOL.webp": "microsoft/Content-Card-Xbox-GamePass-Light-FY24HOL.webp",
-            "Content-Card-Xbox-Series-S-Black-1TB-FY24HOL.jpeg": "microsoft/Content-Card-Xbox-Series-S-Black-1TB-FY24HOL.jpeg",
-            "Content-Card-Xbox-Series-X-angle-FY24HOL.webp": "microsoft/Content-Card-Xbox-Series-X-angle-FY24HOL.webp",
-            "Facebook 2x.webp": "microsoft/Facebook 2x.webp",
-            "Highlight-Hour-of-Code-Minecraft-FY24_VP5-1596x600.avif": "microsoft/Highlight-Hour-of-Code-Minecraft-FY24_VP5-1596x600.avif",
-            "Highlight-Microsoft-Holiday-AI_VP2-859x540.avif": "microsoft/Highlight-Microsoft-Holiday-AI_VP2-859x540.avif",
-            "Highlight-Microsoft-Holiday-AI_VP5-1596x600.jpeg": "microsoft/Highlight-Microsoft-Holiday-AI_VP5-1596x600.jpeg",
-            "Highlight-Surface-Pro-9-Platinum-FY24HOL_VP2-859x540.jpeg": "microsoft/Highlight-Surface-Pro-9-Platinum-FY24HOL_VP2-859x540.jpeg",
-            "Link-List-Icons-Accessories (1).svg": "microsoft/Link-List-Icons-Accessories (1).svg",
-            "Link-List-Icons-Accessories.svg": "microsoft/Link-List-Icons-Accessories.svg",
-            "Link-List-Icons-Business (1).svg": "microsoft/Link-List-Icons-Business (1).svg",
-            "Link-List-Icons-Business.svg": "microsoft/Link-List-Icons-Business.svg",
-            "Link-List-Icons-Microsoft-365 (1).svg": "microsoft/Link-List-Icons-Microsoft-365 (1).svg",
-            "Link-List-Icons-Microsoft-365.svg": "microsoft/Link-List-Icons-Microsoft-365.svg",
-            "Link-List-Icons-Surface-Devices (1).svg": "microsoft/Link-List-Icons-Surface-Devices (1).svg",
-            "Link-List-Icons-Surface-Devices.svg": "microsoft/Link-List-Icons-Surface-Devices.svg",
-            "Link-List-Icons-Xbox-Games-Consoles.svg": "microsoft/Link-List-Icons-Xbox-Games-Consoles.svg",
-            "Linkedin 2x.webp": "microsoft/Linkedin 2x.webp",
-            "RE1Mu3b.png": "microsoft/RE1Mu3b.png",
-            "arrow_upward_FILL0_wght400_GRAD0_opsz24.svg": "microsoft/arrow_upward_FILL0_wght400_GRAD0_opsz24.svg",
-            "chevron-left.svg": "microsoft/chevron-left.svg",
-            "chevron-right.svg": "microsoft/chevron-right.svg",
-            "gldn-CP-Microsoft-Teams-Commercial.webp": "microsoft/gldn-CP-Microsoft-Teams-Commercial.webp",
-            "icon-MSCOM-X-64x64.webp": "microsoft/icon-MSCOM-X-64x64.webp",
-            "icons8-add-user-male-32.png": "microsoft/icons8-add-user-male-32.png",
-            "icons8-cart-48.png": "microsoft/icons8-cart-48.png",
-            "icons8-circle-32.png": "microsoft/icons8-circle-32.png",
-            "icons8-globe-32.png": "microsoft/icons8-globe-32.png",
-            "icons8-play-button-32.png": "microsoft/icons8-play-button-32.png",
-            "index.html": "microsoft/index.html",
-            "left arrrow.png": "microsoft/left arrrow.png",
-            "magnifying-glass-solid.svg": "microsoft/magnifying-glass-solid.svg",
-            "offer": {
-                "Content-Card-Accessories-Type-Cover-Black-Pen-Mouse-Poppy-Red-FY24HOL.webp": "microsoft/offer/Content-Card-Accessories-Type-Cover-Black-Pen-Mouse-Poppy-Red-FY24HOL.webp",
-                "Content-Card-Digital-Gaming-Starfield-FC24-COD-Modern-Warfare-3-Cross-Gen-Bundle-FY24HOL.webp": "microsoft/offer/Content-Card-Digital-Gaming-Starfield-FC24-COD-Modern-Warfare-3-Cross-Gen-Bundle-FY24HOL.webp",
-                "Content-Card-Gift-Cards-Microsoft-Xbox-FY24HOL.webp": "microsoft/offer/Content-Card-Gift-Cards-Microsoft-Xbox-FY24HOL.webp",
-                "Content-Card-Horizontal-Value-Prop-Hand-Money-Price-Icon-01.webp": "microsoft/offer/Content-Card-Horizontal-Value-Prop-Hand-Money-Price-Icon-01.webp",
-                "Content-Card-Surface-Bundle-Pro-9-Keyboard-Black-FY24HOL.webp": "microsoft/offer/Content-Card-Surface-Bundle-Pro-9-Keyboard-Black-FY24HOL.webp",
-                "Content-Card-Surface-Family-FY24HOL.webp": "microsoft/offer/Content-Card-Surface-Family-FY24HOL.webp",
-                "Content-Card-Surface-Family-for-Business-FY24HOL.webp": "microsoft/offer/Content-Card-Surface-Family-for-Business-FY24HOL.webp",
-                "Content-Card-Surface-Go-3-FY24HOL.jpeg": "microsoft/offer/Content-Card-Surface-Go-3-FY24HOL.jpeg",
-                "Content-Card-Surface-Laptop-5-Platinum-FY24HOL.jpeg": "microsoft/offer/Content-Card-Surface-Laptop-5-Platinum-FY24HOL.jpeg",
-                "Content-Card-Surface-Laptop-Go-3-FY24HOL.webp": "microsoft/offer/Content-Card-Surface-Laptop-Go-3-FY24HOL.webp",
-                "Content-Card-Surface-Laptop-Studio-2-FY24HOL.jpeg": "microsoft/offer/Content-Card-Surface-Laptop-Studio-2-FY24HOL.jpeg",
-                "Content-Card-Surface-Laptop-Studio-FY24HOL.jpeg": "microsoft/offer/Content-Card-Surface-Laptop-Studio-FY24HOL.jpeg",
-                "Content-Card-Surface-Pro-8-Xbox-Series-X-Refurbished-FY24HOL.webp": "microsoft/offer/Content-Card-Surface-Pro-8-Xbox-Series-X-Refurbished-FY24HOL.webp",
-                "Content-Card-Surface-Pro-9-Platinum-FY24HOL.webp": "microsoft/offer/Content-Card-Surface-Pro-9-Platinum-FY24HOL.webp",
-                "Content-Card-Value-Prop-Financing-Wallet-Icon-111x111.webp": "microsoft/offer/Content-Card-Value-Prop-Financing-Wallet-Icon-111x111.webp",
-                "Content-Card-Value-Prop-Free-Returns-Box-Icon-111x111.webp": "microsoft/offer/Content-Card-Value-Prop-Free-Returns-Box-Icon-111x111.webp",
-                "Content-Card-Value-Prop-Free-Shipping-Truck-Icon-111x111.webp": "microsoft/offer/Content-Card-Value-Prop-Free-Shipping-Truck-Icon-111x111.webp",
-                "Content-Card-Xbox-Controller-Green-Red-FY24HOL.webp": "microsoft/offer/Content-Card-Xbox-Controller-Green-Red-FY24HOL.webp",
-                "Content-Card-Xbox-Series-S-Starter-Bundle-FY24HOLPM.webp": "microsoft/offer/Content-Card-Xbox-Series-S-Starter-Bundle-FY24HOLPM.webp",
-                "Content-Card-Xbox-Series-X-angle-FY24HOL.webp": "microsoft/offer/Content-Card-Xbox-Series-X-angle-FY24HOL.webp",
-                "Feature-Surface-Laptop-4-For-Business-FY24HOL_VP1-539x349.jpeg": "microsoft/offer/Feature-Surface-Laptop-4-For-Business-FY24HOL_VP1-539x349.jpeg",
-                "Link-List-Icon-Audio-Accessories 1.svg": "microsoft/offer/Link-List-Icon-Audio-Accessories 1.svg",
-                "Link-List-Icon-Audio-Accessories.svg": "microsoft/offer/Link-List-Icon-Audio-Accessories.svg",
-                "Link-List-Icon-Controller.svg": "microsoft/offer/Link-List-Icon-Controller.svg",
-                "Link-List-Icon-Gift-Cards.svg": "microsoft/offer/Link-List-Icon-Gift-Cards.svg",
-                "Link-List-Icon-Laptop-Device.svg": "microsoft/offer/Link-List-Icon-Laptop-Device.svg",
-                "Link-List-Icons-Xbox-Games-Consoles (1).svg": "microsoft/offer/Link-List-Icons-Xbox-Games-Consoles (1).svg",
-                "MSSTORE-Value-Prop-Trade-in.webp": "microsoft/offer/MSSTORE-Value-Prop-Trade-in.webp",
-                "RE1Jq0G.jpeg": "microsoft/offer/RE1Jq0G.jpeg",
-                "RE2cicZ.jpeg": "microsoft/offer/RE2cicZ.jpeg",
-                "RE4O4Mp.jpeg": "microsoft/offer/RE4O4Mp.jpeg",
-                "RE50ytn.jpeg": "microsoft/offer/RE50ytn.jpeg",
-                "RE54DVo.jpeg": "microsoft/offer/RE54DVo.jpeg",
-                "RE5buGz.jpeg": "microsoft/offer/RE5buGz.jpeg",
-                "RW16JNc.jpeg": "microsoft/offer/RW16JNc.jpeg",
-                "RW1aEMx.jpeg": "microsoft/offer/RW1aEMx.jpeg",
-                "RW1aGdI.jpeg": "microsoft/offer/RW1aGdI.jpeg",
-                "RW1aHu7.jpeg": "microsoft/offer/RW1aHu7.jpeg",
-                "RWyHpF.jpeg": "microsoft/offer/RWyHpF.jpeg",
-                "RWyPL1.jpeg": "microsoft/offer/RWyPL1.jpeg",
-                "VP-Truck-1668x940.webp": "microsoft/offer/VP-Truck-1668x940.webp",
-                "ValueProp_ContentPlacement_PricePromise1.webp": "microsoft/offer/ValueProp_ContentPlacement_PricePromise1.webp",
-                "apps.11643.13687136405930807.a178e713-8574-42ad-906f-96bc60c0a3a5.jpeg": "microsoft/offer/apps.11643.13687136405930807.a178e713-8574-42ad-906f-96bc60c0a3a5.jpeg",
-                "apps.12145.13582651418363129.3983f41f-4d3d-49de-a8ca-fca74d25454f.jpeg": "microsoft/offer/apps.12145.13582651418363129.3983f41f-4d3d-49de-a8ca-fca74d25454f.jpeg",
-                "apps.12145.14031087490187058.250515e4-67d1-4346-a79e-6b813fdfea14.jpeg": "microsoft/offer/apps.12145.14031087490187058.250515e4-67d1-4346-a79e-6b813fdfea14.jpeg",
-                "apps.43296.13630336651997545.a96b0d89-5d07-42df-a32b-c465113ff69c.jpeg": "microsoft/offer/apps.43296.13630336651997545.a96b0d89-5d07-42df-a32b-c465113ff69c.jpeg",
-                "apps.53717.65858607118306853.39ed2a08-df0d-4ae1-aee0-c66ffb783a34.jpeg": "microsoft/offer/apps.53717.65858607118306853.39ed2a08-df0d-4ae1-aee0-c66ffb783a34.jpeg",
-                "apps.62211.14281959400456729.871028c8-df4c-403f-826e-d4deb249dc43.jpeg": "microsoft/offer/apps.62211.14281959400456729.871028c8-df4c-403f-826e-d4deb249dc43.jpeg",
-                "gldn-Financing-VP.webp": "microsoft/offer/gldn-Financing-VP.webp",
-                "index.html": "microsoft/offer/index.html",
-                "style.css": "microsoft/offer/style.css"
-            },
-            "privacyoptions.svg": "microsoft/privacyoptions.svg",
-            "right arrow.png": "microsoft/right arrow.png",
-            "right arrow.png arrrow.png": "microsoft/right arrow.png arrrow.png",
-            "sigin page": {
-                "Content-Card-Surface-Go-3-FY24HOL.jpeg": "microsoft/sigin page/Content-Card-Surface-Go-3-FY24HOL.jpeg",
-                "RE1Mu3b.png": "microsoft/sigin page/RE1Mu3b.png",
-                "icons8-question-32.png": "microsoft/sigin page/icons8-question-32.png",
-                "index.html": "microsoft/sigin page/index.html",
-                "signin-options_3e3f6b73c3f310c31d2c4d131a8ab8c6.svg": "microsoft/sigin page/signin-options_3e3f6b73c3f310c31d2c4d131a8ab8c6.svg",
-                "style.css": "microsoft/sigin page/style.css"
-            },
-            "style.css": "microsoft/style.css"
         }
+    },
+    "House-Price-Prediction-": {
+        "HousePrice_Prediction": {
+            "ParisHousing.xls": "HousePrice_Prediction/ParisHousing.xls",
+            "bharath.ipynb": "HousePrice_Prediction/bharath.ipynb",
+            "house_pred.pkl": "HousePrice_Prediction/house_pred.pkl",
+            "main.py": "HousePrice_Prediction/main.py",
+            "templates": {
+                "index.html": "HousePrice_Prediction/templates/index.html"
+            }
+        }
+    },
+    "Lung-Cancer-Prediction-Image-Tabular": {
+        ".gitignore": ".gitignore",
+        "app.py": "app.py",
+        "best_model.pkl": "best_model.pkl",
+        "lung cancer dataset (updated).csv": "lung cancer dataset (updated).csv",
+        "lung-cancer-prediction (1).ipynb": "lung-cancer-prediction (1).ipynb",
+        "model_lung.keras": "model_lung.keras",
+        "project-final.ipynb": "project-final.ipynb",
+        "requirements.txt": "requirements.txt",
+        "templates": {
+            "index.html": "templates/index.html",
+            "predict_image.html": "templates/predict_image.html",
+            "predict_tabular.html": "templates/predict_tabular.html"
+        },
+        "work.py": "work.py"
+    },
+    "narlapavan26": {
+        "README.md": "README.md"
+    },
+    "Optimizing-Doctor-Availability-and-Appointment-Allocation-in-Hospital": {
+        "Doctor Availability": {
+            "KaggleV2-May-2016.csv": "Doctor Availability/KaggleV2-May-2016.csv",
+            "README.md": "Doctor Availability/README.md",
+            "app.py": "Doctor Availability/app.py",
+            "data.csv": "Doctor Availability/data.csv",
+            "main.py": "Doctor Availability/main.py",
+            "miniproject_modified.ipynb": "Doctor Availability/miniproject_modified.ipynb",
+            "pyproject.toml": "Doctor Availability/pyproject.toml",
+            "requirements.txt": "Doctor Availability/requirements.txt",
+            "svm_model.pkl": "Doctor Availability/svm_model.pkl",
+            "templates": {
+                "index.html": "Doctor Availability/templates/index.html"
+            },
+            "uv.lock": "Doctor Availability/uv.lock"
+        },
+        "README.md": "README.md"
     }
 }
