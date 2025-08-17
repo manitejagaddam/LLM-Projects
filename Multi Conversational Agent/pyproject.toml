@@ -1,0 +1,13 @@
+[project]
+name = "multi-conversational-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "autogen>=0.9.8.post1",
+    "google-generativeai>=0.8.5",
+    "litellm>=1.75.8",
+    "logging>=0.4.9.6",
+    "pyautogen>=0.10.0",
+]
